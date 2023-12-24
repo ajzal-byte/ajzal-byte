@@ -7,10 +7,10 @@ const developer = {
 };
 
 const techStack = {
-  frontend: ["HTML", "CSS", "JavaScript", "NodeJS", "Express", "MongoDB"],
+  frontend: ["HTML", "CSS", "Bootstrap", "JavaScript"],
   backend: ["Node.js", "Express"],
   database: ["MongoDB"],
-  tools: ["Git",
+  tools: ["Git"]
 };
 
 
