@@ -1,22 +1,18 @@
 ```javascript
-const developer = {
-  name: "Ajzal",
-  twitter: "ajzaldonttweet",
-  linkedin: "Ajzal Muhammed",
-  portfolio: 404 Not found,
-};
-
 const techStack = {
+  languages: ["JavaScript", "TypeScript"],
   frontend: ["HTML", "CSS", "Bootstrap", "JavaScript"],
   backend: ["Node.js", "Express"],
-  database: ["MongoDB"],
-  tools: ["Git"]
+  databases: ["MongoDB", "PostgreSQL", "Firebase"],
+  frontendFrameworks: ["React", "Next.js"],
+  webTechnologies: ["Redux", "Socket.IO", "WebRTC"],
+  developerTools: ["Postman", "VS Code", "Git", "GitHub"],
+  cloud: ["AWS (EC2)"],
+  csFundamentals: ["Data Structures and Algorithms"],
 };
 
-
 const currentLearning = [
-  "Exploring concepts needed for an eCommerce",
-  "Mastering advanced JavaScript concepts",
-  "Improving Logic building for backend",
+  "Mastering advanced Next.js concepts",
+  "Exploring newer technologies in web development",
 ];
 ```
